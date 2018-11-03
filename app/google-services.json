@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333465528385",
+    "firebase_url": "https://magazine-c18c9.firebaseio.com",
+    "project_id": "magazine-c18c9",
+    "storage_bucket": "magazine-c18c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333465528385:android:94fd1de03caf457a",
+        "android_client_info": {
+          "package_name": "com.example.miras.magazine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333465528385-l24rolluo9gin61auv5mdch5m1jqbga8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miras.magazine",
+            "certificate_hash": "c0a50f29886c7a8f297d1c286f6460390415aa00"
+          }
+        },
+        {
+          "client_id": "333465528385-kqeqf55mf86ogtnhh1gjsaflpnvbpbhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBML6yrhnYoBdKFBZDY7MgyPnEZyfE4_fs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333465528385-kqeqf55mf86ogtnhh1gjsaflpnvbpbhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
